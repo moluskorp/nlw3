@@ -1,0 +1,14 @@
+//Rota = Conjunto
+//Recurso = Usuário
+
+//Método HJTTP = GET, POST, PUT, DELETE
+//Paraâmetros
+
+//GET = Buscar uma informação
+//POST = Criando uma informação
+//PUT = Editando uma informação
+//DELETE = DEletando uma informação
+
+//Query Params: http://localhost:3333/users?search=diego
+//Route Params: http://localhost:3333/users/1 (Identifica o usuario)
+//Body: http://localhost:3333/users 
